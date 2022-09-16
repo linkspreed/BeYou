@@ -1,11 +1,9 @@
-# <img align="left" alt="Kitchat" width="100px" src="https://kitchat.tk/content/uploads/photos/2022/05/sngine_3a962c56dd0c37c8db548d4dd2ab9444.png" draggable="false" /> Kitchat ([Click to try 🚀](https://Kitchat.tk/))
+# <img align="left" alt="Kitchat" width="100px" src="https://kitchat.tk/content/uploads/photos/2022/05/sngine_3a962c56dd0c37c8db548d4dd2ab9444.png" draggable="false" /> BeYou ([Click to try 🚀](https://beyou.cf/))
 
-💜 Kitchat - Chat 💬 and share posts with friends and family 👪
+BeYou 💜 - Show who you really are and be yourself. 🧑‍🤝‍🧑
 
-
-
-## **[Changelog 💬](https://github.com/linkspreed/Kitchat/blob/main/changelog.md)** **Check out the full Kitchat changelog**
-## **[Special Works 👨‍💻](https://github.com/linkspreed/Kitchat/blob/main/Special_Works.md)** **Take a look at what changes we are doing to Kitchat besides development**
+## **[Changelog 💜](https://github.com/linkspreed/BeYou/blob/main/changelog.md)** **Check out the full BeYou changelog**
+## **[Special Works 👨‍💻](https://github.com/linkspreed/BeYou/blob/main/Special_Works.md)** **Take a look at what changes we are doing to BeYou besides development**
 
 
 <div align="center">
@@ -16,7 +14,7 @@
 ## Features
 
  - **Friends** Users can add others as a friend
- - **Follow/Unfollow** Kitchat also support following system like Twitter/Facebook
+ - **Follow/Unfollow** BeYou also support following system like Twitter/Facebook
  - **Real-Time** Real-Time Newsfeed, Chat, & Notifications and Profile Updates
  - **Share** Users can share any public post on Kitchat
  - **Smart Publisher** Publisher auto-scrap (Music, Videos, Links)
@@ -42,7 +40,7 @@
 
 ## More
  
-KitChat is **free**, **real-time** and with **unlimited** resources 
+BeYou is **free**, **real-time** and with **unlimited** resources 
 for users around the world.
 
 Our focus is on **usability** and **security** 
@@ -53,25 +51,25 @@ for our developers, users and anyone who comes into contact with ([Linkspreed �
     is developed properly so that 
     the platform works as well as possible.
 ```
- You can enjoy KitChat freely and use all features to an unlimited extent.
+ You can enjoy BeYou freely and use all features to an unlimited extent.
 
 ## 📷 UI
 
 
 ### Welcome :)
-<img align="center" alt="KitChat" width="3000px" src="https://github.com/linkspreed/Kitchat/blob/main/Screenshots/1.PNG" draggable="false" />
+<img align="center" alt="BeYou" width="3000px" src="https://github.com/linkspreed/BeYou/blob/main/Screenshots/1.PNG" draggable="false" />
 
 ### Timeline
-<img align="center" alt="KitChat" width="3000px" src="https://github.com/linkspreed/Kitchat/blob/main/Screenshots/2.PNG" draggable="false" />
+<img align="center" alt="BeYou" width="3000px" src="https://github.com/linkspreed/BeYou/blob/main/Screenshots/2.PNG" draggable="false" />
 
 ### Marketplace
-<img align="center" alt="KitChat" width="3000px" src="https://github.com/linkspreed/Kitchat/blob/main/Screenshots/3.PNG" draggable="false" />
+<img align="center" alt="BeYou" width="3000px" src="https://github.com/linkspreed/BeYou/blob/main/Screenshots/3.PNG" draggable="false" />
 
 ### Settings
-<img align="center" alt="KitChat" width="3000px" src="https://github.com/linkspreed/Kitchat/blob/main/Screenshots/4.PNG" draggable="false" />
+<img align="center" alt="BeYou" width="3000px" src="https://github.com/linkspreed/BeYou/blob/main/Screenshots/4.PNG" draggable="false" />
 
 ### Profile
-<img align="center" alt="KitChat" width="3000px" src="https://github.com/linkspreed/Kitchat/blob/main/Screenshots/5.PNG" draggable="false" />
+<img align="center" alt="BeYou" width="3000px" src="https://github.com/linkspreed/BeYou/blob/main/Screenshots/5.PNG" draggable="false" />
 
 ### Dark mode
-<img align="center" alt="KitChat" width="3000px" src="https://github.com/linkspreed/Kitchat/blob/main/Screenshots/6.PNG" draggable="false" />
+<img align="center" alt="BeYou" width="3000px" src="https://github.com/linkspreed/BeYou/blob/main/Screenshots/6.PNG" draggable="false" />
