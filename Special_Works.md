@@ -1,4 +1,8 @@
 ### 16.09.2022 (announcement BeYou)
+- We have connected BeYou to an active SMTP email server.  
+- E-mails will be sent from now on... 📧
+
+### 16.09.2022 (announcement BeYou)
 - We have lifted the limit of 5k friends on Beyou.  Now you can add unlimited friends on BeYou. 😇
 
 ### 16.09.2022 (announcement BeYou)
