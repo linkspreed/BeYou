@@ -1,32 +1,64 @@
-# 12.09.2022
- - Version 3.6.1 is now online on the servers.
- - The errors were all fixed.
+### 16.09.2022 (announcement BeYou)
+- We are currently building the official Github repository for **BeYou**. 😍⚡️
 
-# 12.09.2022
- - We are currently launching version 3.6.1 on our servers.
+### 16.09.2022 (announcement BeYou)
+- Today we are ending the **BeYou** project for the time being.  
+- We are now doing the final steps.
 
-# 12.09.2022
- - We are now releasing version 3.6.1 of Kitchat, which fixes bugs from version 3.6. 🚀☁️
-
-# 05.09.2022
- - The theme update for Kitchat is here! 
- - We thoroughly tested the platform and all bugs related to the design are now fixed.
-
-# 05.09.2022
- - Kitchat is now getting a design update. 
- - So please don't be surprised if the page doesn't work properly in the next 5-10 minutes. 
- - We will let you know as soon as the update is complete.
-
-# 05.09.2022
- - This afternoon we're releasing a theme update for **Kitchat**.
-
-# 01.09.2022
- - We will now release a new version (v3.6) for **Kitchat**.
-
-# 14.07.2022
- - The new version 3.5 has been released for **Kitchat**.
-    - All changes can be checked in the changelog.
-
-# 14.07.2022
-  - Today on July 14th, 2022 we connected and pushed **Kitchat** to the Cloudflare infrastructure.
+### 15.07.2022 (announcement BeYou)
+  - Today on September 15th, 2022 we connected and pushed **BeYou** to the Cloudflare infrastructure.
      - This improves both **speed** and **safety**.
+
+### 15.09.2022 (announcement BeYou)
+- **BeYou** now uses Cloudflare's technology and infrastructure :)
+
+### 15.09.2022 (announcement BeYou)
+- **BeYou** has been passed on to Google for indexing - Google Search Console 🥳
+
+### 15.09.2022 (announcement BeYou)
+- We are now waiting for Cloudflare's name server check for **BeYou** :)
+
+### 15.09.2022 (announcement BeYou)
+- We are now integrating **BeYou** with Cloudflare technology. 🧡
+
+### 14.09.2022 (announcement BeYou)
+- Now send unlimited invite codes to your friends to invite them to **BeYou** ^^
+
+### 14.09.2022 (announcement BeYou)
+- Now send your first gif on **BeYou** :D
+- https://beyou.cf/posts/2
+
+### 14.09.2022 (announcement BeYou)
+- We are now making it possible for you on **BeYou** to activate the filters for location feature to find posts and content near you, provided the location was also posted :)
+
+### 14.09.2022 (announcement BeYou)
+- The 'Offer' module is now available on **BeYou** free of charge and unlimited for every user from now on.
+
+### 14.09.2022 (announcement BeYou)
+- The 'Job' module is now available on **BeYou** free of charge and unlimited for every user from now on.
+
+### 14.09.2022 (announcement BeYou)
+- The 'Forum' module is now available on **BeYou** free of charge and unlimited for every user from now on.
+
+### 14.09.2022 (announcement BeYou)
+- Just be yourself and don't pretend. 
+- It's perfect the way you are!
+- #BeYou 🥳
+
+### 14.09.2022 (announcement BeYou)
+- Open Newsfeeds are a completely new concept for us that we will test with **BeYou** and that we will also report about in social media posts in the future. 🧡
+
+### 14.09.2022 (announcement BeYou)
+- 😍 **BeYou**'s newsfeed will be public, which means that you can read the newsfeed of public **BeYou** accounts without an account as long as you like.
+
+### 14.09.2022 (announcement BeYou)
+- We are now continuing to work on #BeYou because we want to finally publish the platform soon. ✨ 
+- We will keep you informed of the developments.
+
+### 13.09.2022 (announcement BeYou)
+- We made an important change in the **BeYou** code.  
+- Now it's only a matter of days until we release **BeYou**.  
+- The platform is expected to appear next weekend.
+
+### 13.09.2022 (announcement BeYou)
+- We are working on **BeYou** - our BeReal alternative :)
