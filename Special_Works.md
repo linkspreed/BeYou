@@ -1,4 +1,8 @@
 ### 16.09.2022 (announcement BeYou)
+- ⚠️ There is a problem with the "Join" button on **BeYou** and the login.  
+- We will fix the error as soon as possible.
+
+### 16.09.2022 (announcement BeYou)
 - We are currently building the official Github repository for **BeYou**. 😍⚡️
 
 ### 16.09.2022 (announcement BeYou)
