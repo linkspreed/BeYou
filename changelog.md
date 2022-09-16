@@ -1,0 +1,73 @@
+# Version 3.6.1 12-09-2022
+ - [Fixed] Newsfeed Countries Issue
+ - [Fixed] @mentions Issue
+ - [Fixed] Save To Cloud Storage Issue
+ - [Fixed] Vkontakte Adaptor Issue
+ - [Fixed] Tinymce Uploading Images Issue
+ - [Fixed] Custom CSS Colors Issue
+ - [Fixed] Minor Bugs
+
+# Version 3.6 01-09-2022
+ - [Updated] Documentation
+ - [Updated] System Security
+ - [Updated] System Optimization
+ - [Updated] Sngine PHP Dependencies
+ - [Updated] Sngine JS Dependencies
+ - [Added] Move Sngine JS Dependencies to NPM
+ - [Added] FFMPEG Support
+ - [Added] Admin ability to turn FFMPEG On/Off [Admin Panel]
+ - [Added] All Comments Sorting in Comments
+ - [Added] Backblaze Cloud Storage
+ - [Added] Manage Reserved Usernames [Admin Panel]
+ - [Added] Profile Image Required While Sign Up On/Off [Admin Panel]
+ - [Added] Location Data Required While Sign Up On/Off [Admin Panel]
+ - [Added] Education Data Required While Sign Up On/Off [Admin Panel]
+ - [Added] Work Data Required While Sign Up On/Off [Admin Panel]
+ - [Added] Allow Special Characters in Names [Admin Panel]
+ - [Added] Share the post to Event
+ - [Added] Publish Articles Inside Pages
+ - [Added] Publish Articles Inside Groups
+ - [Added] Publish Articles Inside Events
+ - [Added] Posts Views System
+ - [Added] Admin ability to turn Posts Views System On/Off [Admin Panel]
+ - [Added] Points/Post View in Points System
+ - [Added] Custom Countries for Auto-Friend Feature
+ - [Added] Custom Countries for Auto-Follow Feature
+ - [Added] Custom Countries for Auto-Like Feature
+ - [Added] Custom Countries for Auto-Join Feature
+ - [Added] Native Emojis Support
+ - [Added] Newsfeed Location Filter
+ - [Added] Admin ability to Enable/Disable Any Currency [Admin Panel]
+ - [Added] Pro Package Badge with Comments
+ - [Added] Video.js Langauges
+ - [Added] New Ads Positions Under The Post & Article
+ - [Added] Stories Preview
+ - [Fixed] Agora Cloud Recording
+ - [Fixed] Wasabi Files Delete After Deleting The Post
+ - [Fixed] Update Pages, Groups & Events Counters When Delete User
+ - [Fixed] Default Website Description Translation
+ - [Fixed] Odysee.com Scraper Bug
+ - [Fixed] Dark Mode Pagination Colors
+ - [Fixed] Live Video Screenshot
+ - [Fixed] Video Calls UI
+ - [Fixed] User Online Bug
+ - [Fixed] Offers Date Format Match System Date Format
+ - [Fixed] Delete Album Photos After Load More
+ - [Fixed] Minor Bugs
+
+# v3.5 (14 Jul, 2022)
+ - USER SELECT PRODUCT CURRENCY
+ - SECURIONPAY PAYMENT
+ - Using Composer
+ - COINBASE PAYMENT 
+ - CASHFREE PAYMENT
+ - RAZORPAY PAYMENT
+ - SEARCH BOX IN BLOGS MODULE
+ - HTML SUPPORT
+ - LIVE STREAMING FOR EVENTS
+ - LIVE STREAMING FOR PAGES
+ - LIVE STREAMING FOR GROUPS 
+ - REPORT CATEGORIES AND REPORT REASON
+ - ACTIVATION REQUIRED
+ - COPY POST LINK TO CLIPBOARD
+ - **AND MUCH MORE**
