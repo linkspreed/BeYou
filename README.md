@@ -16,7 +16,7 @@ BeYou 💜 - Show who you really are and be yourself. 🧑‍🤝‍🧑
  - **Friends** Users can add others as a friend
  - **Follow/Unfollow** BeYou also support following system like Twitter/Facebook
  - **Real-Time** Real-Time Newsfeed, Chat, & Notifications and Profile Updates
- - **Share** Users can share any public post on Kitchat
+ - **Share** Users can share any public post on BeYou
  - **Smart Publisher** Publisher auto-scrap (Music, Videos, Links)
  - **YouTube, Vimeo, SoundCloud** Users can share links from these media
  - **Notifications** Get notifications (red notification with counter) from other users when they: Like, Share, Comment, or @mention you
