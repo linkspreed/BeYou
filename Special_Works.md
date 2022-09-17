@@ -6,7 +6,8 @@
 - E-mails will be sent from now on... 📧
 
 ### 16.09.2022 (announcement BeYou)
-- We have lifted the limit of 5k friends on Beyou.  Now you can add unlimited friends on BeYou. 😇
+- We have lifted the limit of 5k friends on **Beyou**.  
+- Now you can add unlimited friends on **BeYou**. 😇
 
 ### 16.09.2022 (announcement BeYou)
 - The problem on **BeYou** with the login has been successfully resolved. 
