@@ -1,4 +1,7 @@
 ### 17.09.2022 (announcement BeYou)
+- We're making small fine-tuning changes to **BeYou** and KitChat
+
+### 17.09.2022 (announcement BeYou)
 - https://beyou.cf/content/uploads/photos/2022/09/beyou_406468463da7b823938b5419ffa9b080.gif
 - Our new logo/icon on **BeYou**?  😍
 - What do you think of this design and how do you like the idea of a gif?
