@@ -1,4 +1,4 @@
-# <img align="left" alt="Kitchat" width="100px" src="https://beyou.cf/content/uploads/photos/2022/09/beyou_406468463da7b823938b5419ffa9b080.gif" draggable="false" /> BeYou ([Click to try 🚀](https://beyou.cf/))
+# <img align="left" alt="Kitchat" width="100px" src="https://beyou.cf/content/uploads/photos/2022/09/beyou_2d963d6f55edb4096a5f836f823d814d.png" draggable="false" /> BeYou ([Click to try 🚀](https://beyou.cf/))
 
 BeYou 💜 - Show who you really are and be yourself. 🧑‍🤝‍🧑
 
