@@ -1,5 +1,8 @@
+### 17.09.2022 (announcement BeYou)
+- We are now designing a new logo/icon for **BeYou** :D
+
 ### 16.09.2022 (announcement BeYou)
-- We have connected BeYou to an active SMTP email server.  
+- We have connected **BeYou** to an active SMTP email server.  
 - E-mails will be sent from now on... 📧
 
 ### 16.09.2022 (announcement BeYou)
