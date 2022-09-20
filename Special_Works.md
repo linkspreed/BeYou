@@ -1,3 +1,6 @@
+### 20.09.2022 (announcement BeYou)
+ - We will release the new version 3.6.2 for **BeYou** very soon.
+
 ### 17.09.2022 (announcement BeYou)
 - It will soon be possible to log in to **BeYou** with Google.
 
