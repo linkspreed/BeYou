@@ -1,3 +1,8 @@
+# Version 3.6.2 21-09-2022
+ - [Updated] BeYou Default Theme Colors
+ - [Added] New Post Reactions Images
+ - [Fixed] Minor Bugs
+
 # Version 3.6.1 12-09-2022
  - [Fixed] Newsfeed Countries Issue
  - [Fixed] @mentions Issue
