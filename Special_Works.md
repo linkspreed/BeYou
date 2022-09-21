@@ -1,3 +1,6 @@
+### 21.09.2022 (announcement BeYou)
+- We're releasing version 3.6.2 for **BeYou** today.
+
 ### 20.09.2022 (announcement BeYou)
 - We are still working very hard on version 3.6.2 for **BeYou** ✌️
 
