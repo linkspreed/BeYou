@@ -1,3 +1,6 @@
+### 25.09.2022 (announcement BeYou)
+ - We are working on a mini design update for the next few days.
+
 ### 21.09.2022 (announcement BeYou)
 - **BeYou** version 3.6.2 is now live.  
 - You can find the entire changelog on Github.
