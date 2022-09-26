@@ -1,5 +1,8 @@
+### 26.09.2022 (announcement BeYou)
+- We are now releasing the mini theme update for **BeYou** that will not go into the changelog.
+
 ### 25.09.2022 (announcement BeYou)
- - We are working on a mini design update for the next few days.
+- We are working on a mini design update for the next few days.
 
 ### 21.09.2022 (announcement BeYou)
 - **BeYou** version 3.6.2 is now live.  
