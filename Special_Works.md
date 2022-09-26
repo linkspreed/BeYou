@@ -1,4 +1,8 @@
 ### 26.09.2022 (announcement BeYou)
+- The design update is here!  
+- Small errors are thus fixed :D
+
+### 26.09.2022 (announcement BeYou)
 - We are now releasing the mini theme update for **BeYou** that will not go into the changelog.
 
 ### 25.09.2022 (announcement BeYou)
