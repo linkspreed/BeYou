@@ -70,6 +70,3 @@ for our developers, users and anyone who comes into contact with ([Linkspreed ðŸ
 
 ### Profile
 <img align="center" alt="BeYou" width="3000px" src="https://github.com/linkspreed/BeYou/blob/main/Screenshots/5.PNG" draggable="false" />
-
-### Dark mode
-<img align="center" alt="BeYou" width="3000px" src="https://github.com/linkspreed/BeYou/blob/main/Screenshots/6.PNG" draggable="false" />
