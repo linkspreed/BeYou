@@ -1,3 +1,6 @@
+### 13.10.2022 (announcement BeYou)
+- We are working on a small update.
+
 ### 26.09.2022 (announcement BeYou)
 - The design update is here!  
 - Small errors are thus fixed :D
