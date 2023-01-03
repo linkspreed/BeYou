@@ -1,3 +1,6 @@
+### 03.01.2023 (announcement BeYou)
+- We're working on **BeYou**!
+
 ### 13.10.2022 (announcement BeYou)
 - We are working on a small update.
 
