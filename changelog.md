@@ -1,3 +1,50 @@
+# Version 3.7 - Release Date: 22nd February 2023
+ - [Updated] Documentation
+ - [Updated] System Security
+ - [Updated] System Optimization
+ - [Updated] Sngine PHP Dependencies
+ - [Updated] Sngine JS Dependencies
+ - [Added] Content Monetization for [Profiles|Pages|Groups]
+ - [Added] Manage Reactions [Admin Panel]
+ - [Added] Add Follower/Followings Privacy Settings
+ - [Added] Ads Free System for Pro Accounts
+ - [Added] Admin ability to turn Ads Free System On/Off [Admin Panel]
+ - [Added] Posts Count in [Profile|Page|Group|Event]
+ - [Added] Photos Count in [Profile|Page|Group|Event]
+ - [Added] Videos Count in [Profile|Page|Group|Event]
+ - [Added] Who can Send Gifts [Everyone|Verified|Pro|Admins]
+ - [Added] Who can Upload Videos [Everyone|Verified|Pro|Admins]
+ - [Added] Who can Upload Audios [Everyone|Verified|Pro|Admins]
+ - [Added] Who can Upload Files [Everyone|Verified|Pro|Admins]
+ - [Added] Who can Add Colored Posts [Everyone|Verified|Pro|Admins]
+ - [Added] Who can Add Feelings/Activity Posts [Everyone|Verified|Pro|Admins]
+ - [Added] Who can Add Poll Posts [Everyone|Verified|Pro|Admins]
+ - [Added] Who can Add Geolocation Posts [Everyone|Verified|Pro|Admins]
+ - [Added] Who can Add GIF Posts [Everyone|Verified|Pro|Admins]
+ - [Added] Who can Post As Anonymous [Everyone|Verified|Pro|Admins]
+ - [Added] Stripe New Checkout APIs
+ - [Added] Dark|Light Logo [Admin Panel]
+ - [Added] Mixcloud Support
+ - [Added] Backblaze Bucket Region "eu-central-003" [Admin Panel]
+ - [Fixed] FastCGI Issue
+ - [Fixed] Pro System Charts in Admin Panel
+ - [Fixed] Pro Earning of Current Month
+ - [Fixed] Disabled Currencies in Admin Panel
+ - [Fixed] Auto Followings Check
+ - [Fixed] Quick Search Log Check
+ - [Fixed] Delete Original Video After FFmpeg Convert
+ - [Fixed] Backups Function
+ - [Fixed] Campaign Potential Reach
+ - [Fixed] RazorPay Issue
+ - [Fixed] Stories Preview Issue with Videos
+ - [Fixed] Mass Notifications Extrenal Link Open New Tab
+ - [Fixed] Minor Bugs
+
+# Version 3.6.3 - Release Date: 12th October 2022
+ - [Fixed] Categories Translation
+ - [Fixed] FFmpeg issue with Cloud Saving
+ - [Fixed] Minor Bugs
+
 # Version 3.6.2 21-09-2022
  - [Updated] BeYou Default Theme Colors
  - [Added] New Post Reactions Images
