@@ -1,3 +1,24 @@
+### 22.02.2023 (announcement BeYou)
+- https://github.com/linkspreed/BeYou/blob/main/changelog.md
+- The entire changelog is now available on Github.
+
+### 22.02.2023 (announcement BeYou)
+- The launch of version 3.7 of **BeYou** was successful! 🥳
+- The new update is live now :)
+- https://beyou.cf 🔗
+
+### 22.02.2023 (announcement BeYou)
+- We are now starting the launch of v3.7.
+
+### 22.02.2023 (announcement BeYou)
+- The servers are now ready for the launch of version 3.7 for **BeYou**.
+
+### 22.02.2023 (announcement BeYou)
+- The code is now ready for the launch of version 3.7 for **BeYou**.
+
+### 22.02.2023 (announcement BeYou)
+-  **BeYou** gets a big update today - we are going to launch v3.7. 😍
+
 ### 03.01.2023 (announcement BeYou)
 - We're working on **BeYou**!
 
