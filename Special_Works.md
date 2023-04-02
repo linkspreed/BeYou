@@ -1,3 +1,6 @@
+### 02.04.2023 (announcement BeYou)
+- 👩‍💻🚀 Big things are coming! We're currently working on version 3.8 of #BeYou, and we can't wait to share it with you all. #appdevelopment #innovation
+
 ### 22.02.2023 (announcement BeYou)
 - After 3 months of hard work, we're thrilled to announce the release of BeYou Version 3.7! Our team has poured their hearts and souls into this update, and we can't wait for you to try it out. Let's get #BeYou-ing!
 
