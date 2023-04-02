@@ -1,4 +1,7 @@
 ### 02.04.2023 (announcement BeYou)
+- Exciting news! 🎉👀 BeYou version 3.8 is now available! Check out our latest patch notes on GitHub and experience the new and improved features. #BeYou #Update #GitHub
+
+### 02.04.2023 (announcement BeYou)
 - https://github.com/linkspreed/BeYou/blob/main/changelog.md
 - The entire changelog is now available on Github.
 
