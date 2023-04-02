@@ -1,3 +1,48 @@
+# Version 3.8 - Release Date: 2nd April 2023
+
+ - [Updated] Documentation
+ - [Updated] System Security
+ - [Updated] System Optimization
+ - [Updated] Sngine PHP Dependencies
+ - [Updated] Sngine JS Dependencies
+ - [Added] New Landing Page Design
+ - [Added] Watch Module
+ - [Added] Tips Module
+ - [Added] Content Monetization Custom Plans Module
+ - [Added] Reactions Order [Admin Panel]
+ - [Added] Allow Animated Images for Avatars/Covers
+ - [Added] Admin ability to turn Animated Images On/Off [Admin Panel]
+ - [Added] Games Genres
+ - [Added] Discover Pages by Categories
+ - [Added] Discover Groups by Categories
+ - [Added] Discover Events by Categories
+ - [Added] Discover Games By Genres
+ - [Added] Edit Pages Description SEO [Admin Panel]
+ - [Added] Edit Groups Description SEO [Admin Panel]
+ - [Added] Edit Events Description SEO [Admin Panel]
+ - [Added] Edit Games Description SEO [Admin Panel]
+ - [Added] Manage DayTime Messages [Admin Panel]
+ - [Added] List Marketplace Posts [Admin Panel]
+ - [Added] Backbalze New Location [Admin Panel]
+ - [Added] Moneypoolscash Payment Gateway
+ - [Added] Show Ads Campaigns for Non-logged-in Members
+ - [Fixed] Pages Fake Generator
+ - [Fixed] Bank Transfers Accept [Admin Panel]
+ - [Fixed] Highcharts.js Translation [Admin Panel]
+ - [Fixed] Group Cover Image Position Issue
+ - [Fixed] Post Title With Feelings Issue
+ - [Fixed] Super Admin Can’t Be Demo Account
+ - [Fixed] Dark Logo If Not Uploaded
+ - [Fixed] Advanced Search With Empty Query Links Issue
+ - [Fixed] Friends Count To Exclude Banned Users
+ - [Fixed] Posts limit/hours for articles
+ - [Fixed] Fullname in Forums if Usernames Only Enabled
+ - [Fixed] Deleting Comments When Post Deleted
+ - [Fixed] Deleting Article Cover Image When Article Deleted
+ - [Fixed] Pinned Post Twice Views
+ - [Fixed] Promoted Jobs Not Open
+ - [Fixed] Images & Videos Aspect Ratio
+
 # Version 3.7 - Release Date: 22nd February 2023
  - [Updated] Documentation
  - [Updated] System Security
