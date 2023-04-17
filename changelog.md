@@ -1,3 +1,7 @@
+# Version 3.8 / Patch 3 - Release Date: 17th April 2023
+
+ - [Fixed] Some small bugs.
+
 # Version 3.8 - Release Date: 2nd April 2023
 
  - [Updated] Documentation
