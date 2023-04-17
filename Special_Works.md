@@ -1,3 +1,6 @@
+### 17.04.2023 (announcement BeYou)
+-We've just released Patch 3 for Version 3.8 of BeYou! Time to update and enjoy the latest features of our amazing platform. #BeYou #Update #Patch3 #Release
+
 ### 02.04.2023 (announcement BeYou)
 - Exciting news! 🎉👀 BeYou version 3.8 is now available! Check out our latest patch notes on GitHub and experience the new and improved features. #BeYou #Update #GitHub
 
