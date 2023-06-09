@@ -1,3 +1,6 @@
+### 09.06.2023 (announcement BeYou)
+- 🚀 Exciting news! We've just added BeYou to our subdomain system 🎉 Head to https://beyou.cf and you'll be redirected to https://beyou.linkspreed.com - don't worry, nothing is changing in your user experience 🙌 Have you checked out BeYou yet? #BeYourself #UserExperience 💻📲
+
 ### 17.04.2023 (announcement BeYou)
 -We've just released Patch 3 for Version 3.8 of BeYou! Time to update and enjoy the latest features of our amazing platform. #BeYou #Update #Patch3 #Release
 
