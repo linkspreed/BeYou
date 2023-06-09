@@ -1,3 +1,6 @@
+### 10.06.2023 (annoucement BeYou)
+- 🚀 Exciting news, BeYou fans! We're currently working on the amazing Version 3.9, but it's still in the Linkspreed Research Lab. 🤔 What features do you hope to see in this update? Let us know in the comments! #BeYouUpgrades #Version3.9ComingSoon #LinkspreedResearchLab 🧐
+
 ### 09.06.2023 (announcement BeYou)
 - 🚀 Exciting news! We've just added BeYou to our subdomain system 🎉 Head to https://beyou.cf and you'll be redirected to https://beyou.linkspreed.com - don't worry, nothing is changing in your user experience 🙌 Have you checked out BeYou yet? #BeYourself #UserExperience 💻📲
 
