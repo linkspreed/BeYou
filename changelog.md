@@ -1,3 +1,53 @@
+# Version 3.9 (Patch Update 3) 10-06-2023
+
+ - Profile picture when start chat from profile, market, popover …etc
+ - Replaced CDN for “Bootstrap” & “tinymce-i18n” with local files (JsDeliver CDN has some issues with some countries)
+ - Fixed “Forget Password” link position
+
+# Version 3.9 (Patch Update 2) 10-06-2023
+
+ - Cover image position issue
+ - DataTables alert issue when edit user in admin panel
+ - Critical Security Issues
+
+# Version 3.9 10-06-2023
+
+ - [Updated] Documentation
+ - [Updated] System Security
+ - [Updated] System Optimization
+ - [Updated] Sngine PHP Dependencies
+ - [Updated] Sngine JS Dependencies
+ - [Added] Migrate to Bootstrap v5+
+ - [Added] New Default Theme
+ - [Added] Fluid Design Option
+ - [Added] Admin ability to turn Fluid Design Option On/Off [Admin Panel]
+ - [Added] Change Icons Colors [Admin Panel]
+ - [Added] New Social Login via WordPress
+ - [Added] New System Ads Slot For Specific Pages
+ - [Added] New System Ads Slot For Specific Groups
+ - [Added] Emojis Menu Lazy Loading
+ - [Added] MoneyPoolsCash Automatic Withdrawal Payments
+ - [Added] Movies Pay Per View Module
+ - [Added] Switch Accounts
+ - [Added] Share Stories As Ads
+ - [Added] Videos Categories
+ - [Added] Manage Videos Categories [Admin Panel]
+ - [Added] Manage Custom Users Groups [Admin Panel]
+ - [Added] Manage Permissions Groupss [Admin Panel]
+ - [Added] Pro Packages With Permissions Groups [Admin Panel]
+ - [Added] Pro Packages With Picked Videos Categories Access [Admin Panel]
+ - [Added] Pro Packages With Picked Blogs Categories Access [Admin Panel]
+ - [Added] Admin ability to turn Verification Docs On/Off [Admin Panel]
+ - [Added] Make “Boosted” Posts Visible To Website Visitors
+ - [Added] Uploads Permission for Non-Logged In Users
+ - [Fixed] Minor Bugs
+ - [Fixed] Games Genres Issue
+ - [Fixed] Publisher Privacy Dropdown Menu in Mobile
+ - [Fixed] Video Player Aspect Ratio
+ - [Fixed] Stripe with JPY currency
+ - [Fixed] Backup contains content\backups folder
+ - [Fixed] Facebook Embed Responsive Issue
+
 # Version 3.8 / Patch 3 - Release Date: 17th April 2023
 
  - [Fixed] Some small bugs.
