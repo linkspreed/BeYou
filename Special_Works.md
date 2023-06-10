@@ -1,4 +1,7 @@
 ### 10.06.2023 (annoucement BeYou)
+- 🎉 Good news, BeYou fans! We've been working hard on an update to make your experience even better 🌟 But we're not quite ready to share yet... Stay tuned for the big reveal in the next few days! What features are you hoping to see in the update? #BeYou #update #comingsoon
+
+### 10.06.2023 (annoucement BeYou)
 - 🚀 Exciting news, BeYou fans! We're currently working on the amazing Version 3.9, but it's still in the Linkspreed Research Lab. 🤔 What features do you hope to see in this update? Let us know in the comments! #BeYouUpgrades #Version3.9ComingSoon #LinkspreedResearchLab 🧐
 
 ### 09.06.2023 (announcement BeYou)
