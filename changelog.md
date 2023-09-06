@@ -1,3 +1,16 @@
+# Version 3.9.1 06-09-2023
+
+ - [Fixed] Minor Bugs
+ - [Fixed] Cover image position issue
+ - [Fixed] DataTables alert issue when edit user in admin panel
+ - [Fixed] Critical Security Issues
+ - [Fixed] Profile picture when start chat from profile, market, popover …etc
+ - [Fixed] Replaced CDN for “Bootstrap” & “tinymce-i18n” with local files (JsDeliver CDN has some issues with some countries)
+ - [Fixed] Fixed “Forget Password” link position
+ - [Fixed] Admin panel badge text white colors in day mode
+ - [Fixed] Stories Issue
+ - [Fixed] Fundings Permissio
+
 # Version 3.9 (Patch Update 3) 10-06-2023
 
  - Profile picture when start chat from profile, market, popover …etc
