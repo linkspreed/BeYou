@@ -1,3 +1,27 @@
+### 09.09.2023 (announcement BeYou)
+- 📢 Exciting news, BeYou fam! 🌟 We've just released a major update, Version 3.10, for our beloved app! 🚀 Check out all the incredible changes we've made on our GitHub page. 🤩🔧 Have you had a chance to explore the new features yet? Share your thoughts with us below! 👇 #BeYouUpdate #NewFeatures
+
+### 09.09.2023 (announcement BeYou)
+- https://github.com/linkspreed/BeYou/blob/main/changelog.md
+- The entire changelog is now available on Github.
+
+### 09.09.2023 (announcement BeYou)
+- The launch of version 3.10 of **BeYou** was successful! 🥳
+- The new update is live now :)
+- https://beyou.linkspreed.com 🔗
+
+### 09.09.2023 (announcement BeYou)
+- We are now starting the launch of v3.10.
+
+### 09.09.2023 (announcement BeYou)
+- The servers are now ready for the launch of version 3.10 for **BeYou**.
+
+### 09.09.2023 (announcement BeYou)
+- The code is now ready for the launch of version 3.10 for **BeYou**.
+
+### 09.09.2023 (announcement BeYou)
+-  **BeYou** gets a big update today - we are going to launch v3.10. 😍
+
 ### 06.09.2023 (announcement BeYou)
 - 📢 Exciting news! 🎉 We've just released Version 3.9.1 for BeYou! 🚀✨ This update brings some amazing new features and improvements to enhance your experience. 😍💪 Have you updated yet? Share your thoughts and let us know what you think! 🤔 #BeYouApp #UpdateTime #NewFeatures
 
