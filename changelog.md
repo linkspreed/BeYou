@@ -1,3 +1,60 @@
+# Version 3.10 - 09-09-2023
+
+ - [Updated] Documentation
+ - [Updated] System Security
+ - [Updated] System Optimization
+ - [Updated] Sngine PHP Dependencies
+ - [Updated] Sngine JS Dependencies
+ - [Added] Market Purchase Module
+ - [Added] Tips To Blogs
+ - [Added] Admin ability to turn Switch Accounts On/Off [Admin Panel]
+ - [Added] Sngine Login as Social Login
+ - [Added] Enable/Disable Reactions [Admin Panel]
+ - [Added] SMS Limit/Hour
+ - [Added] Wallet Transfer Maximum [Admin Panel]
+ - [Added] Send Tips in Profiles
+ - [Added] User ability to turn Send Tips in his profile On/Off [User Settings]
+ - [Added] Tips Button in Pages
+ - [Added] Page's Admin ability to turn Send Tips in his page On/Off [Page Settings]
+ - [Added] Products Limits Per Package
+ - [Added] Business Tax Info, Address, Website with Pages Verification Requests
+ - [Added] Change Profile Cover from Old Photos
+ - [Added] Change Page Cover from Old Photos
+ - [Added] Change Group Cover from Old Photos
+ - [Added] Change Event Cover from Old Photos
+ - [Added] Hide Permissions For Disabled Modules in Packages
+ - [Added] Enhanced The Search System
+ - [Added] Products Tab in Profile Page
+ - [Added] Manage Profile Top Photos
+ - [Added] Manage Profile Top Friends
+ - [Added] Photo Link Copy When Sharing Single Photo
+ - [Added] Create Funding from Publisher
+ - [Added] Page Description Supports Multiple Lines
+ - [Added] Group Description Supports Multiple Lines
+ - [Added] Event Description Supports Multiple Lines
+ - [Added] Show User's Marketplace Balance in Admin Panel
+ - [Added] Show User's Funding Balance in Admin Panel
+ - [Added] Show User's Monetization Balance in Admin Panel
+ - [Added] Enhanced Articles Tags System
+ - [Added] More Zones for Wasabi Settings
+ - [Added] Upgrade FontAwesome to v6+
+ - [Added] Upgrade Installer Wizard to v5+
+ - [Added] Upgrade Updater Wizard to v5+
+ - [Fixed] Minor Bugs
+ - [Fixed] Change OG-Image with Video Thumbnail
+ - [Fixed] Exclude None-Activated Users From New People
+ - [Fixed] Exclude Super Admin From New People
+ - [Fixed] Ads for Pages & Groups
+ - [Fixed] Noty Notification not Clickable
+ - [Fixed] Pro Packages Price Format
+ - [Fixed] Profiles/Pages/Groups/Events UI make info first
+ - [Fixed] Stories ADS Last More Than 24 Hours
+ - [Fixed] Funding Post's Title Open New Window
+ - [Fixed] Change People UI Make Search At Bottom
+ - [Fixed] Hide Boosted Pages if Pages Disabled From Sidebar Menu
+ - [Fixed] Super Admin Can Change His User Group
+ - [Fixed] OneSignal Icon Position Issue
+
 # Version 3.9.1 06-09-2023
 
  - [Fixed] Minor Bugs
