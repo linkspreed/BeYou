@@ -1,3 +1,6 @@
+### 17.09.2023 (announcement BeYou)
+- 📢 We've just released Patch 1 and Patch 2 for BeYou, fixing several bugs along the way! 🐛 Check out the changes on our Github repository. 🔧💻 Did you encounter any issues with BeYou? Share your thoughts with us in the comments below! 👇 #BeYou #softwareupdates #bugfixes
+
 ### 09.09.2023 (announcement BeYou)
 - 📢 Exciting news, BeYou fam! 🌟 We've just released a major update, Version 3.10, for our beloved app! 🚀 Check out all the incredible changes we've made on our GitHub page. 🤩🔧 Have you had a chance to explore the new features yet? Share your thoughts with us below! 👇 #BeYouUpdate #NewFeatures
 
