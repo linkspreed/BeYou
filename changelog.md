@@ -1,3 +1,14 @@
+# Version 3.10 Patch 2 - 17-09-2023
+
+ - Marketplace search bug
+ - Add friend bug
+ - Market tabs on small screens
+
+# Version 3.10 Patch 1 - 17-09-2023
+
+ - Seller/Buyer Order in Admin Panel
+ - Profile, Page, Group, Event Order of The Columns in Mobile
+
 # Version 3.10 - 09-09-2023
 
  - [Updated] Documentation
